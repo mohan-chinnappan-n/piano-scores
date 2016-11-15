@@ -1,9 +1,9 @@
 ## Piano Scores
 
 ### Collection of Piano scores of great songs
-|Song|Movie/Album|Language|Composer|Ref|
-|----|-----|-----|----|---|
-|Nee Partha Parvai | Hey Ram | Tamil/Bengali | Ilayaraja|[Ref](https://www.facebook.com/media/set/?set=a.10151823994737791.1073741827.146439042790&type=1)|
+|Song|Movie/Album|Language|Composer|Ref|Video|
+|----|-----|-----|----|---|---|
+|Nee Partha Parvai | Hey Ram | Tamil/Bengali | Ilayaraja|[Ref](https://www.facebook.com/media/set/?set=a.10151823994737791.1073741827.146439042790&type=1)|[Video](https://www.youtube.com/watch?v=iIJZuTsnElU)|
 
 
 ### Videos 
